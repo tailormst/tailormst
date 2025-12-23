@@ -1,145 +1,155 @@
-<h1 align="center">Hi 👋, I'm Mohammed Tailor</h1>
-<h3 align="center">Machine Learning Enthusiast | AI/ML Innovator | Lifelong Learner</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tailormst&label=Profile%20views&color=0e75b6&style=flat" alt="tailormst" />
-</p>
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Large Language Models, Competitive Programming / DSA**
-- 🔭 I’m working on applying ML/LLM techniques to practical projects and improving production ML workflows
-- 🤝 I’m open to collaborating on **projects where I can contribute ML, web, or full-stack expertise**
-- 👨‍💻 See my projects and portfolio on LinkedIn: [Mohammed Tailor](https://www.linkedin.com/in/mohammed-tailor-002968288/)
-- 💬 Ask me about **React.js, Next.js, Tailwind CSS, ShadCN, Django, FastAPI, ML/DL concepts and projects**
-- 📫 Reach me at **mohammedtailor5253@gmail.com**
-- ⚡ Fun fact: **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mohammed-tailor-002968288" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/mohammedstailor" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mohammed_._02" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/tailorms" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages & Tools</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-</p>
-
+<a href="#">
+    <p align="left"> 
+        <img src="https://komarev.com/ghpvc/?username=tailormst&label=Profile%20views&color=0e75b6&style=flat" alt="tailormst" /> +186
+    </p>
+</a>
+<a href="#">
+</a>
+<h1 align="center">
+    <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=34F700&size=35&center=true&vCenter=true&width=500&height=70&duration=2600&lines=Hi+There!+👋❤️;+I'm+Mohammed+Tailor!" />
+    </a>
+</h1>
+<hr>
+<h2 align="center">A passionate SDE | Machine Learning Enthusiast | AI Innovator | Lifelong Learner</h2>
+<br>
+<a href="#">
+ <img align="right" src="assets/engineer1.gif"  width="270" />
+ </a>
+ <div align="left">
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tailormst&show_icons=true&locale=en&layout=compact" alt="tailormst" />
-</p>
+    
+**🌱 I’m currently learning Machine Learning, Deep Learning, LLMs, Competitive Programming / DSA**
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tailormst&theme=dark" alt="tailormst-streak" />
-</p>
+**💬 Ask me about React.js, Next.js, Tailwind CSS, Django, FastAPI, ML/DL concepts and projects [here...](https://www.linkedin.com/in/mohammed-tailor-002968288/)**
 
-<p>
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=tailormst&theme=react-dark" alt="tailormst-daily-activity" />
+**🔭 I’m looking to collaborate on ML/LLM projects and improving production ML workflows** 
 </p>
+</div>
+ 
+<div align="left"> 
+  <a href="mailto:mohammedtailor5253@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>&nbsp&nbsp
+  <a href="https://www.linkedin.com/in/mohammed-tailor-002968288/" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-FF5722?style=for-the-badge&logo=linkedin&logoColor=white" target="_main" /> 
+  </a>
+</div>
+<br>
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <a href="#">
+        <img src="https://skillicons.dev/icons?i=python,c,html,css,tailwind,django,react,fastapi,tensorflow,numpy,pandas,seaborn,matplotlib" /><br>
+    </a>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+<a href="#">
+  <img alt="snake eating my contributions" src="https://github.com/tailormst/tailormst/blob/main/github-user-contribution.svg" />
+    </a>
+  </br></br>
+</div>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+    <a href="#">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tailormst&theme=react&border_radius=10&border=61DAFB" />
+    </a>
+    <a href="#">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=tailormst&show_icons=true&theme=react&border_color=61dafb&border_radius=10&rank_icon=github" />
+    </a>
+</div>
+<br><br><br><br><br><br><br><br><br>
+<div align=center>
+    <a href="#">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tailormst&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&theme=react&border_color=61dafb&border_radius=10" />
+    </a>
+</div>
+<br>
+<hr/>
+<div align="center">
+
+## 🛠️ Tech Arsenal 🛠️
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <!-- Tech Stack Table -->
+    <td style="border: none;">
+      <table align="center" style="border: none; border-collapse: collapse;">
+        <tr style="border: none;">
+          <td align="center" width="100" style="border: none;">
+            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+            <br>Python
+          </td>
+          <td align="center" width="100" style="border: none;">
+            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
+            <br>JavaScript
+          </td>
+          <td align="center" width="100" style="border: none;">
+            <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/></a>
+            <br>Django
+          </td>
+          <td align="center" width="100" style="border: none;">
+            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/></a>
+            <br>NumPy
+          </td>
+        </tr>
+        <tr style="border: none;">
+          <td align="center" width="100" style="border: none;">
+            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
+            <br>React
+          </td>
+          <td align="center" width="100" style="border: none;">
+            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="50" height="50"/></a>
+            <br>Tailwind
+          </td>
+          <td align="center" width="100" style="border: none;">
+            <a href="#"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50"/></a>
+            <br>Seaborn
+          </td>
+          <td align="center" width="100" style="border: none;">
+            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/></a>
+            <br>Pandas
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Spacer -->
+    <td style="width: 100px; border: none;"></td>
+    <!-- GIF on the Right -->
+    <td align="center" valign="top" style="border: none;">
+      <a href="#"><img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="GIF" width="250"/></a>
+    </td>
+  </tr>
+</table>
+</div>
+<hr/>
+
+<h2 align="center">🔃 Connect with me: 🔃</h2>
+<br/>
+<div align="center">
+        <table>
+            <tr>
+                <td>
+                    <a href="https://www.linkedin.com/in/mohammed-tailor-002968288/" target="_blank">
+                        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+                    </a>
+                </td>
+                <td>
+                    <a href="https://www.leetcode.com/tailorms" target="_blank">
+                       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+                </a>
+                </td>
+            </tr>
+        </table>
+</div>
+
+<hr/>
