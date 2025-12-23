@@ -1,6 +1,6 @@
 <a href="#">
     <p align="left"> 
-        <img src="https://komarev.com/ghpvc/?username=tailormst&label=Profile%20views&color=0e75b6&style=flat" alt="tailormst" /> +186
+        <img src="https://komarev.com/ghpvc/?username=tailormst&label=Profile%20views&color=0e75b6&style=flat" alt="tailormst" />
     </p>
 </a>
 <a href="#">
@@ -52,7 +52,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 <a href="#">
-  <img alt="snake eating my contributions" src="https://github.com/tailormst/tailormst/blob/main/github-user-contribution.svg" />
+  <img alt="snake eating my contributions" src="./dist/github-user-contribution.svg" />
     </a>
   </br></br>
 </div>
